@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilgarbuja
 - 👀 I’m interested in Website Desing, App Development, Graphics Designing, Video Editing.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning JavaScrip.
 - 💞️ I’m looking for job in Website designing.
 - 📫 You can directly message in Facebook Sushil Garbuja Magar.
 
