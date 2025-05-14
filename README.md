@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @sushilgarbuja
-- 👀 I’m interested in Website Design, App Development, Graphics Designing, Video Editing.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking for a job in Website Design.
-- 📫 You can directly message in Facebook Sushil Garbuja Magar.
+👋 Hi, I’m Sushil Garbuja – an aspiring Full Stack Developer.
+
+👀 I have a strong interest in Website Design, App Development, Graphics Designing, and Video Editing.
+
+🌱 Currently, I’m learning JavaScript and exploring the MERN stack to build dynamic, full-featured web applications.
+
+💼 I’m actively looking for opportunities in Website Design and Full Stack Development roles.
+
+📫 Feel free to connect with me on Facebook: Sushil Garbuja Magar
 
 <!---
 sushilgarbuja/sushilgarbuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
